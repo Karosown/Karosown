@@ -1,6 +1,5 @@
 ### 这里是你的Karos
 欢迎你来到我的Github<br>
-🌏个人博客: <a href="http://www.wzl1.top/" target="_blank">http://www.wzl1.top/</a><br>
 🐧腾讯云开发者平台：<a href="https://cloud.tencent.com/developer/user/2871589" target="_blank">https://cloud.tencent.com/developer/user/2871589</a><br>
 2023 ACM-ICPC 四川省金<br>
 2022 ACM-ICPC 四川省铜<br>
